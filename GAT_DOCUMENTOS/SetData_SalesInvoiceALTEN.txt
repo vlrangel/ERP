@@ -1,0 +1,64 @@
+=Code.SetData(Cstr(Fields!CustAddr1.Value) + Chr(177) + 
+Cstr(Fields!CustAddr2.Value) + Chr(177) + 
+Cstr(Fields!CustAddr3.Value) + Chr(177) + 
+Cstr(Fields!CustAddr4.Value) + Chr(177) + 
+Cstr(Fields!CustAddr5.Value) + Chr(177) + 
+Cstr(Fields!CustAddr6.Value) + Chr(177) + 
+Cstr(Fields!CustAddr7.Value) + Chr(177) + 
+Cstr(Fields!CustAddr8.Value) + Chr(177) + 
+Cstr(Fields!CompanyAddr1.Value) + Chr(177) + 
+Cstr(Fields!CompanyAddr2.Value) + Chr(177) + 
+Cstr(Fields!CompanyAddr3.Value) + Chr(177) + 
+Cstr(Fields!CompanyAddr4.Value) + Chr(177) + 
+Cstr(Fields!CompanyAddr5.Value) + Chr(177) + 
+Cstr(Fields!CompanyAddr6.Value) + Chr(177) + 
+Cstr(Fields!CompanyInfoPhoneNo.Value) + Chr(177) + 
+Cstr(Fields!CompanyInfoVATRegistrationNo.Value) + Chr(177) + 
+Cstr(Fields!CompanyInfoGiroNo.Value) + Chr(177) + 
+Cstr(Fields!CompanyInfoBankName.Value) + Chr(177) + 
+Cstr(Fields!CompanyInfoBankAccountNo.Value) + Chr(177) + 
+Cstr(Fields!BilltoCustNo_SalesInvHdr.Value) + Chr(177) + 
+Cstr(Fields!VATRegNo_SalesInvHeader.Value) + Chr(177) + 
+Cstr(Fields!YourReference_SalesInvHdr.Value) + Chr(177) + 
+Cstr(Fields!No_SalesInvoiceHeader1.Value) + Chr(177) + 
+Cstr(Fields!OrderNo_SalesInvHeader.Value) + Chr(177) + 
+Cstr(Fields!PostingDate_SalesInvHdr.Value) + Chr(177) + 
+Cstr(Fields!DueDate_SalesInvHeader.Value) + Chr(177) + 
+Cstr(Cstr(Fields!PricesInclVATYesNo.Value)) + Chr(177) + 
+Cstr(First(Fields!DocDate_SalesInvoiceHdr.Value)) + Chr(177) + 
+Cstr(First(Fields!DocumentCaptionCopyText.Value)) + Chr(177) + 
+Cstr(Fields!SalesPurchPersonName.Value) + Chr(177) + 
+Cstr(Fields!PaymentTermsDescription.Value) + Chr(177) + 
+Cstr(Fields!PaymentMethodDescription.Value) + Chr(177) + 
+Cstr(Fields!ShipmentMethodDescription.Value) + Chr(177) + 
+Cstr(Fields!CompanyInfoHomePage.Value) + Chr(177) + 
+Cstr(Fields!CompanyInfoEmail.Value) + Chr(177) + 
+Cstr(Fields!PricesInclVAT_SalesInvHdrCaption.Value) + Chr(177) + 
+Cstr(Fields!InvoiceNoCaption.Value) + Chr(177) + 
+Cstr(Fields!PostingDateCaption.Value) + Chr(177) + 
+Cstr(Fields!BilltoCustNo_SalesInvHdrCaption.Value) + Chr(177) + 
+Cstr(Fields!BankAccNoCaption.Value) + Chr(177) + 
+Cstr(Fields!BankNameCaption.Value) + Chr(177) + 
+Cstr(Fields!GiroNoCaption.Value) + Chr(177) + 
+Cstr(Fields!VATRegNoCaption.Value) + Chr(177) + 
+Cstr(Fields!PhoneNoCaption.Value) + Chr(177) + 
+Cstr(Fields!ReferenceText.Value) + Chr(177) + 
+Cstr(Fields!SalesPersonText.Value) + Chr(177) + 
+Cstr(Fields!VATNoText.Value) + Chr(177) + 
+Cstr(Fields!PageCaption.Value) + Chr(177) + 
+Cstr(Fields!OrderNoText.Value) + Chr(177) + 
+Cstr(Fields!DueDateCaption.Value) + Chr(177) + 
+Cstr(Fields!DocDateCaption.Value) + Chr(177) + 
+Cstr(Fields!PmtTermsDescCaption.Value) + Chr(177) + 
+Cstr(Fields!PmtMethodDescCaption.Value) + Chr(177) + 
+Cstr(Fields!HomePageCaption.Value) + Chr(177) + 
+Cstr(Fields!EmailCaption.Value) + Chr(177) + 
+Cstr(Fields!CACCaption.Value)+ Chr(177) + 
+cstr(Fields!CustAddr2.Value)+ Chr(177) + 
+Cstr(Fields!NombreProyecto.Value)+ Chr(177)+
+Cstr(Fields!IdClienteCaption.Value)+ Chr(177)+
+Cstr(Fields!ExpedienteCaptionLbl.Value) + Chr(177) + 
+Cstr(Fields!JobNo_SalesInvoiceLine.Value) +Chr(177) + 
+Cstr(Fields!countryName.Value) + Chr(177) + 
+Cstr(Fields!JobNo.Value)
+, 1)

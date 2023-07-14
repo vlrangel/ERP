@@ -1,0 +1,39 @@
+{
+  "id": "fb5289cf-1d42-42f5-9c67-fa723c7c5dea",
+  "name": "GAT_DOCUMENTOS",
+  "publisher": "Myb",
+  "version": "1.0.0.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "b357807f-e6d7-4e6a-bf37-af840932e4bc",
+      "name": "GAT_RETENCIONES",
+      "publisher": "MayBe Cloud",
+      "version": "1.0.0.1"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+    
+  },
+  "runtime": "8.0",
+  "features": ["TranslationFile"],
+  "supportedLocales": [ "en-US", "es-ES", "es-ES_tradnl" ]
+}
